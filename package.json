@@ -6,7 +6,7 @@
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "yarn run snyk-protect"
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -16,7 +16,7 @@
     "react-native-gifted-chat-video-support": "^0.4.6",
     "react-native-indicators": "^0.13.0",
     "react-native-vector-icons": "oblador/react-native-vector-icons",
-    "socket.io": "^1.7.2",
+    "socket.io": "^2.0.2",
     "react-navigation": "^2.14.2",
     "lodash": "^4.17.12",
     "@stevenmasini/react-native-fast-image": "^5.2.0",
@@ -24,7 +24,7 @@
     "babel-plugin-loop-optimizer": "^1.4.1",
     "babel-plugin-react-persist": "^0.2.0",
     "moment": "^2.24.0",
-    "snyk": "^1.234.2"
+    "snyk": "^1.267.0"
   },
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
