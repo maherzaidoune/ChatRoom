@@ -24,7 +24,7 @@
     "babel-plugin-loop-optimizer": "^1.4.1",
     "babel-plugin-react-persist": "^0.2.0",
     "moment": "^2.24.0",
-    "snyk": "^1.234.2"
+    "snyk": "^1.278.2"
   },
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
