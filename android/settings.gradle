@@ -1,4 +1,6 @@
 rootProject.name = 'chatroom'
+include ':react-native-fast-image'
+project(':react-native-fast-image').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fast-image/android')
 include ':@stevenmasini_react-native-fast-image'
 project(':@stevenmasini_react-native-fast-image').projectDir = new File(rootProject.projectDir, '../node_modules/@stevenmasini/react-native-fast-image/android')
 include ':react-native-vector-icons'

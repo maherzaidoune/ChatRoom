@@ -3,7 +3,7 @@ import { Text, View, FlatList, TouchableOpacity, RefreshControl, Modal, TextInpu
 import Icon from 'react-native-vector-icons/FontAwesome';
 import axios from 'axios';
 import Color from "../Color";
-import FastImage from '@stevenmasini/react-native-fast-image';
+import FastImage from 'react-native-fast-image';
 
 export default class Rooms extends Component {
   state = {
@@ -43,7 +43,7 @@ export default class Rooms extends Component {
             alignItems: 'center',
             padding: 10,
         }}>
-        <FastImage
+        {/* <FastImage
             style={{
               height: 30,
               width: 30,
@@ -54,7 +54,7 @@ export default class Rooms extends Component {
                 priority: FastImage.priority.normal,
             }}
             resizeMode={FastImage.resizeMode.contain}
-            />
+            /> */}
             <Text
                 style={{
                     //flex: 1,
