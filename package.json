@@ -18,7 +18,7 @@
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react": "16.6.3",
-    "react-native": "0.60.0",
+    "react-native": "0.62.0",
     "react-native-audio": "^4.3.0",
     "react-native-elements": "^1.0.0",
     "react-native-fast-image": "^7.0.2",
