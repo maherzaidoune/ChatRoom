@@ -6,7 +6,7 @@
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "yarn run snyk-protect"
   },
   "dependencies": {
     "@react-native-community/toolbar-android": "0.1.0-rc.1",
@@ -28,7 +28,7 @@
     "react-native-sound": "^0.11.0",
     "react-native-vector-icons": "oblador/react-native-vector-icons",
     "react-navigation": "^2.14.2",
-    "snyk": "^1.234.2",
+    "snyk": "^1.321.0",
     "socket.io": "^1.7.2"
   },
   "devDependencies": {
