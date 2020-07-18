@@ -21,7 +21,7 @@
     "react-native": "0.60.0",
     "react-native-audio": "^4.3.0",
     "react-native-elements": "^1.0.0",
-    "react-native-fast-image": "^7.0.2",
+    "react-native-fast-image": "^8.3.0",
     "react-native-fs": "^2.16.6",
     "react-native-gifted-chat-video-support": "^0.4.6",
     "react-native-indicators": "^0.13.0",
